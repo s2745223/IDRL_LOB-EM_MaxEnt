@@ -2,7 +2,8 @@
 
 This folder contains the research manuscript and supporting material for:
 
-**_Estimating Strategic Delays in Limit Order Books via EM–MaxEnt IRL_**  
+**_Inverse Delayed Reinforcement Learning for Limit Order Books:
+A Multi-Strategy EM–MaxEnt Approach for Inferring Latency-Driven Trading Behaviour_**  
 **Working Draft (v0.9) — Preprint forthcoming**
 
 ## Files
